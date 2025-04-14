@@ -1,7 +1,7 @@
-![logo](https://github.com/arashdeep-git/arashdeep-git/blob/main/)
+![logo](https://github.com/arashdeep-git/arashdeep-git/blob/main/67078d2339e51.png)
 
 ### About
-<h1 align="center">Hi 👋, I'm Arashdeep</h1>
+<h1 align="center">Hi 👋, I'm Arashdeep Singh</h1>
 <h3 align="center">Aspiring Software Developer with hands-on experience in building Java-based projects and a solid foundation in full-stack development. Proficient in implementing CRUD operations, database management, and modular application design. Passionate about learning new technologies and developing efficient, user-friendly solutions. Committed to continuous improvement and applying best practices in software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arashdeep-git&label=Profile%20views&color=0e75b6&style=flat" alt="arashdeep-git" /> </p>
